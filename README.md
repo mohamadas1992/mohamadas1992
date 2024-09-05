@@ -1,4 +1,7 @@
 <h1 align="center">سلام من محمد احمد صفائی هستم👋</h1>
+<h3 align="center">فردی علاقه مند به فناوری که با تصمیم گیری های عملیاتی و دقیق و براساس مستندات واقعی و مستدل به دیگران کمک می کنم</h3>
+<h2 align="center">🎓 مهارت‌ها و ابزارهایی که استفاده میکنم:</h2>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Wireshark](https://a11ybadges.com/badge?logo=wireshark) 
 
 <!--
 **mohamadas1992/mohamadas1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
